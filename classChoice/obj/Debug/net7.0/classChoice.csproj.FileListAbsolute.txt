@@ -1,0 +1,15 @@
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/bin/Debug/net7.0/classChoice
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/bin/Debug/net7.0/classChoice.deps.json
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/bin/Debug/net7.0/classChoice.runtimeconfig.json
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/bin/Debug/net7.0/classChoice.dll
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/bin/Debug/net7.0/classChoice.pdb
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.csproj.AssemblyReference.cache
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.AssemblyInfoInputs.cache
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.AssemblyInfo.cs
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.csproj.CoreCompileInputs.cache
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.dll
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/refint/classChoice.dll
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.pdb
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/classChoice.genruntimeconfig.cache
+/Users/rawlsten/REPOS/class-of-your-choice-AdisonReddy/classChoice/obj/Debug/net7.0/ref/classChoice.dll
